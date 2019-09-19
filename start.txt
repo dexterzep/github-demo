@@ -1,2 +1,5 @@
 test git quick start demo
 will this be a starting to a greate testing lecture.
+
+
+so this is the change after the feature rebasing on master.
