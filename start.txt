@@ -7,3 +7,4 @@ will this be a starting to a greate testing lecture.
 
 so this is the change after the feature rebasing on master.
 >>>>>>> 9ba75a48eef49e02095640bff01fb3c18a4c2580
+these are the changes that are being made from the original master branch.
