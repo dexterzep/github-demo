@@ -1,2 +1,9 @@
 test git quick start demo
+<<<<<<< HEAD
 quiCKLUY  goonna this come and go!
+=======
+will this be a starting to a greate testing lecture.
+
+
+so this is the change after the feature rebasing on master.
+>>>>>>> 9ba75a48eef49e02095640bff01fb3c18a4c2580
